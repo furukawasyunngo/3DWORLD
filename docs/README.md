@@ -2,7 +2,7 @@
 
 ![タイトル画面]()
 ![ゲーム画面]()
-<a href="./webgl" target="_blank">ゲームで遊ぶ</a>
+<a href="./docs/webgl" target="_blank">ゲームで遊ぶ</a>
 
 # ゲームの概要
 
